@@ -42,10 +42,3 @@ Add screenshots of the flags or the terminal here to show proof of completion.
 * This repo is intentionally minimal to serve as a quick proof-of-solve entry.
 * Feel free to expand with commands, notes, and screenshots.
 
-## License
-
-This repository is released under the MIT License. See `LICENSE` for details (optional).
-
----
-
-If you want, I can add a more detailed walkthrough, example commands, or prepare a `WALKTHROUGH.md` with the exact steps you used. Tell me what you'd like added.
