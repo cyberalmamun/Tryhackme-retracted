@@ -1,32 +1,4 @@
-# TryHackMe — Retracted
 
-**Room:** Retracted — [https://tryhackme.com/room/retracted](https://tryhackme.com/room/retracted)
-
-> Simple, compact repository for notes and quick proof that I completed the room.
-
----
-
-## ✅ Status
-
-**Completed**
-
-## Overview
-
-This repository contains a short README with highlights and notes from solving the *Retracted* room on TryHackMe. It is intentionally minimal — meant for adding screenshots and short commands to demonstrate completion.
-
-## Key takeaways
-
-* Learned and practised techniques used in the Retracted room.
-* Collected flags and completed the challenges.
-
-## Walkthrough (short)
-
-1. Enumerated targets and services.
-2. Used common enumeration tools and techniques to gather information.
-3. Exploited identified weaknesses to gain foothold.
-4. Escalated privileges and retrieved flags.
-
-> Add a more detailed step-by-step walkthrough or commands in `WALKTHROUGH.md` if you want to expand later.
 
 ## Screenshots
 
