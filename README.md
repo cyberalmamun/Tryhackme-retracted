@@ -1,6 +1,4 @@
-#TryHackMe — Retracted
-
-**Room:** Retracted — [https://tryhackme.com/room/retracted](https://tryhackme.com/room/retracted)
+[https://tryhackme.com/room/retracted](https://tryhackme.com/room/retracted)
 
 > Simple, compact repository for notes and quick proof that I completed the room.
 
