@@ -31,8 +31,12 @@ This repository contains a short README with highlights and notes from solving t
 > Add a more detailed step-by-step walkthrough or commands in `WALKTHROUGH.md` if you want to expand later.
 
 ## Screenshots
+<img width="1773" height="982" alt="Screenshot 2025-09-21 at 11 02 48 PM" src="https://github.com/user-attachments/assets/732e54df-f058-4d64-96d3-7fff8f726af0" />
+<img width="1773" height="982" alt="Screenshot 2025-09-21 at 11 00 33 PM" src="https://github.com/user-attachments/assets/f342046a-7011-4edb-8259-8a8994c4ba3f" />
+<img width="1773" height="982" alt="Screenshot 2025-09-21 at 10 57 57 PM" src="https://github.com/user-attachments/assets/7c9e8f3f-9dca-4afa-ab89-1f9b90759bb1" />
+<img width="1773" height="982" alt="Screenshot 2025-09-21 at 10 56 45 PM" src="https://github.com/user-attachments/assets/a786afe1-4604-4b9d-81b6-62e9a163b15a" />
 
-Add screenshots of the flags or the terminal here to show proof of completion.
+
 
 ## Files to add (suggested)
 
