@@ -1,18 +1,4 @@
-#TryHackMe — Retracted
 
-**Room:** Retracted — 
-
-[https://tryhackme.com/room/retracted](https://tryhackme.com/room/retracted)
-
-> Simple, compact repository for notes and quick proof that I completed the room.
-
----
-
-## ✅ Status
-
-**Completed**
-
-## Overview
 
 This repository contains a short README with highlights and notes from solving the *Retracted* room on TryHackMe. It is intentionally minimal — meant for adding screenshots and short commands to demonstrate completion.
 
