@@ -35,6 +35,11 @@ This repository contains a short README with highlights and notes from solving t
 <img width="1773" height="982" alt="Screenshot 2025-09-21 at 11 00 33 PM" src="https://github.com/user-attachments/assets/f342046a-7011-4edb-8259-8a8994c4ba3f" />
 <img width="1773" height="982" alt="Screenshot 2025-09-21 at 10 57 57 PM" src="https://github.com/user-attachments/assets/7c9e8f3f-9dca-4afa-ab89-1f9b90759bb1" />
 <img width="1773" height="982" alt="Screenshot 2025-09-21 at 10 56 45 PM" src="https://github.com/user-attachments/assets/a786afe1-4604-4b9d-81b6-62e9a163b15a" />
+<img width="1626" height="935" alt="Screenshot 2025-09-26 at 10 32 49 PM" src="https://github.com/user-attachments/assets/e14518d6-f1d0-4b27-a97e-90ff26de482c" />
+<img width="1626" height="935" alt="Screenshot 2025-09-26 at 10 32 43 PM" src="https://github.com/user-attachments/assets/187fa2c6-d6d5-44eb-9882-b0e9226118a4" />
+
+
+
 
 
 
